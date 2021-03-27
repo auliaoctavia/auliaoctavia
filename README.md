@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @auliaoctavia
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning html, css, javaScript and framwork to js
-- 💞️ I’m looking to collaborate on front end developer
+- 👀 I’m interested in website
+- 🌱 I’m currently learning html, css, and javaScript
+- 💞️ I’m looking to collaborate on front end
 - 📫 How to reach me auliaoctaviani33@gmail.com
 
 <!---
