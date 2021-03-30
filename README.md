@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @auliaoctavia
-- 👀 I’m interested in website
+- 👀 I’m interested in 
 - 🌱 I’m currently learning html, css, and javaScript
-- 💞️ I’m looking to collaborate on front end
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me auliaoctaviani33@gmail.com
 
 <!---
